@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 9EBD-8AFF
+
+ Directory of C:\Users\Danny\Desktop\MyGit
+
+02/08/2018  11:49 PM    <DIR>          .
+02/08/2018  11:49 PM    <DIR>          ..
+02/08/2018  11:49 PM                 0 gittest.txt
+               1 File(s)              0 bytes
+               2 Dir(s)     799,416,320 bytes free
